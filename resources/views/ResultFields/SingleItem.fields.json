@@ -1,1 +1,6 @@
-[]
+[
+  "properties.property.selection.*",
+  "properties.selection.*",
+  "properties.texts.*",
+  "stock.*"
+]

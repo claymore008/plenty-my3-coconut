@@ -4,7 +4,7 @@
 
 # CeresCoconut
 
-A Coconut theme for Ceres 3.
+A (modified) Coconut theme for Ceres 3 (v2.0.7)
 
 
 ## Requirements

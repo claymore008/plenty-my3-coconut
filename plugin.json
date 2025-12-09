@@ -1,12 +1,11 @@
 {
-    "version"           :   "2.0.7",
+    "version"           :   "2.0.8",
     "name"              :   "CeresCoconut",
     "pluginIcon"        :   "icon_plugin_xs.png",
     "authorIcon"        :   "icon_author_xs.png",
     "email"             :   "dir@keyonline.eu",
     "phone"             :   "+49 000 000 000",
     "description"       :   "A (modified) coconut theme for Ceres 3.",
-    "shortDescription"  :   {"de": "Plugin für Testzwecke","en": "Plugin for test purposes"},
     "namespace"         :   "CeresCoconut",
     "author"            :   "COO",
     "type"              :   "theme",

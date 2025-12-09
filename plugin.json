@@ -1,5 +1,5 @@
 {
-    "version"           :   "2.0.8",
+    "version"           :   "2.0.9",
     "name"              :   "CeresCoconut",
     "pluginIcon"        :   "icon_plugin_xs.png",
     "authorIcon"        :   "icon_author_xs.png",
@@ -8,7 +8,7 @@
     "description"       :   "A (modified) coconut theme for Ceres 3.",
     "namespace"         :   "CeresCoconut",
     "author"            :   "COO",
-    "type"              :   "theme",
+    "type"              :   "template",
     "require"           :   {
                                 "Ceres":">= 3.0.0"
                             },
